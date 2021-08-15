@@ -1,0 +1,12 @@
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\bin\Release\netstandard2.1\DuzceObs.Infrastructure.deps.json
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\bin\Release\netstandard2.1\DuzceObs.Infrastructure.dll
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\bin\Release\netstandard2.1\DuzceObs.Infrastructure.pdb
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\bin\Release\netstandard2.1\DuzceObs.Core.dll
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\bin\Release\netstandard2.1\DuzceObs.Core.pdb
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\obj\Release\netstandard2.1\DuzceObs.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\obj\Release\netstandard2.1\DuzceObs.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\obj\Release\netstandard2.1\DuzceObs.Infrastructure.AssemblyInfo.cs
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\obj\Release\netstandard2.1\DuzceObs.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\obj\Release\netstandard2.1\DuzceObs.Infrastructure.csproj.CopyComplete
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\obj\Release\netstandard2.1\DuzceObs.Infrastructure.dll
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Infrastructure\obj\Release\netstandard2.1\DuzceObs.Infrastructure.pdb

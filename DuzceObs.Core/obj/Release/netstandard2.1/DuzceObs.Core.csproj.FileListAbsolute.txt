@@ -1,0 +1,9 @@
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Core\bin\Release\netstandard2.1\DuzceObs.Core.deps.json
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Core\bin\Release\netstandard2.1\DuzceObs.Core.dll
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Core\bin\Release\netstandard2.1\DuzceObs.Core.pdb
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Core\obj\Release\netstandard2.1\DuzceObs.Core.csprojAssemblyReference.cache
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Core\obj\Release\netstandard2.1\DuzceObs.Core.AssemblyInfoInputs.cache
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Core\obj\Release\netstandard2.1\DuzceObs.Core.AssemblyInfo.cs
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Core\obj\Release\netstandard2.1\DuzceObs.Core.csproj.CoreCompileInputs.cache
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Core\obj\Release\netstandard2.1\DuzceObs.Core.dll
+C:\Users\ilker\source\repos\DuzceObs\DuzceObs.Core\obj\Release\netstandard2.1\DuzceObs.Core.pdb
